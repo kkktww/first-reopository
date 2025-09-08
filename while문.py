@@ -3,11 +3,6 @@ while n <= 10:
     print(n)
     n=n+1
 
-
-
-
-text='yes'
-
 while text=='yes':
     text=input('yes 입력 시 반복')
 
